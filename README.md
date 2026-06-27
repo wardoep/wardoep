@@ -1,4 +1,4 @@
-Recent SUNY Albany graduate pursuing IT support roles. I’m building hands-on technical skills through Linux projects, homelab infrastructure, automation, and personal AI tools.
+SUNY Albany graduate pursuing IT support roles. I’m building hands-on technical skills through Linux projects, homelab infrastructure, automation, and personal AI tools.
 
     current focus
     - landing an IT help desk / support role
