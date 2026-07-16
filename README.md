@@ -12,6 +12,7 @@ I run a self-hosted Linux server that operates a fleet of always-on services I d
 | [btc-backtest-lab](https://github.com/wardoep/btc-backtest-lab) | Trading-strategy backtester with out-of-sample validation, a strategy leaderboard, Pine Script export, and a live hourly forward paper test run by a systemd timer |
 | [twitch-clips-bot](https://github.com/wardoep/twitch-clips-bot) | Discord bot that watches Twitch/Kick channels and delivers daily top-clip digests, with downloads quality-stepped to fit Discord's upload limit |
 | [ai-shorts-pipeline](https://github.com/wardoep/ai-shorts-pipeline) | End-to-end automated video pipeline: AI-drafted scripts → TTS narration → timed captions → stock b-roll → ffmpeg assembly, with quota pre-flight checks and budget tracking |
+| [ad-network-lab](https://github.com/wardoep/ad-network-lab) | Active Directory + pfSense lab documented as rebuildable runbooks: Group Policy, AGDLP permissions, helpdesk delegation, PowerShell user provisioning, break/fix drills |
 | [homelab-vps-setup](https://github.com/wardoep/homelab-vps-setup) | Infrastructure documentation for my Ubuntu Server homelab: SSH access workflows, Tailscale networking, server setup runbooks |
 | [it-support-scripts](https://github.com/wardoep/it-support-scripts) | Linux troubleshooting scripts and notes built while practicing entry-level support workflows |
 
